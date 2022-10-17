@@ -19,18 +19,18 @@ class Rectangle extends Shape {
         this.filled = filled;
     }
 
-    public double getWidth()
-    {
-        return width;
-    }
+        public double getWidth()
+        {
+            return width;
+        }
 
-    public void setWidth(double width)
-    {
-        this.width = width;
-    }
+        public void setWidth(double width)
+        {
+            this.width = width;
+        }
 
-    public double getLength()
-    {
+        public double getLength()
+        {
         return length;
     }
     public void setLength(double length)
